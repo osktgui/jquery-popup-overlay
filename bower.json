@@ -1,6 +1,6 @@
 {
   "name": "jquery-popup-overlay",
-  "main": "index.js",
+  "main": "./jquery.popupoverlay.js",
   "version": "1.7.6",
   "homepage": "https://github.com/vast-engineering/jquery-popup-overlay",
   "authors": [
