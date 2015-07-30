@@ -2,7 +2,7 @@
   "name": "jquery-popup-overlay",
   "version": "1.7.6",
   "description": "Lightweight modal popup overlay for jquery",
-  "main": "index.js",
+  "main": "./jquery.popupoverlay.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
